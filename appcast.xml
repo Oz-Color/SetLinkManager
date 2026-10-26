@@ -3,6 +3,18 @@
   <channel>
     <title>Set Link Manager</title>
     <item>
+      <title>Version 3.0.2</title>
+      <pubDate>Mon, 26 Oct 2026 15:42:55 GMT</pubDate>
+      <sparkle:version>3.0.2</sparkle:version>
+      <sparkle:shortVersionString>3.0.2</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <sparkle:channel>beta</sparkle:channel>
+      <description><![CDATA[
+<ul><li><b>Fixed:</b> a reboot or factory reset could quietly not happen when its command was lost. It&#x27;s now checked and sent again if needed, and you&#x27;re told if it still didn&#x27;t take.</li><li><b>Fixed:</b> units not found after plugging in a network adapter while the app was open. The app now notices network changes and looks again.</li><li><b>Signal page:</b> every HaLow link on one graph, up to 0 dBm, with lost links shown as gaps instead of joined up.</li><li><b>Menu bar:</b> units linked over HaLow, with signal bars and dBm (Settings → Menu Bar). Every row highlights the same way.</li><li><b>Ping:</b> when each device last answered; an average over 10 s to 15 min with lost pings; graphs on demand.</li><li><b>Change set:</b> Factory reset for a whole set; &quot;Factory reset each unit first&quot; before writing; Select All.</li><li><b>Factory Reset, Then Apply</b> when changing one unit&#x27;s settings.</li><li><b>Warnings:</b> Clear All; a lost link clears by itself after 30 minutes; quitting clears them all.</li><li>&quot;Not answering&quot; shows after 10 s, and a unit moves to Disconnected after 20 s.</li><li><b>Settings → General:</b> Forget All Units, and Reset Set Link Manager.</li><li>Names save when you click elsewhere, not only with Enter. Enter no longer closes the preset editor; ⌘↩ saves.</li><li>&quot;Configs&quot; are now <b>Presets</b>; &quot;cabled&quot; is now <b>wired</b> everywhere.</li><li>New presets start at 20 dBm.</li><li><b>Units list:</b> quick buttons on each unit (reboot, read again, factory reset, details), its ring colour down the side, and the temperature with the rest of its settings.</li><li><b>Unit page:</b> every other unit in a column on the left, to switch in one click; the ring colour shown big at the top.</li><li><b>Menu bar:</b> each device&#x27;s address under its name, and its response time above when it last answered. Every part can be hidden.</li><li><b>Console (Workshop):</b> factory reset and relay mode in the Commands menu; relay name and password fill the line for you to finish.</li></ul>
+      ]]></description>
+      <enclosure url="https://github.com/esteperrin/SetLinkManager/releases/download/v3.0.2/Set-Link-Manager-3.0.2.dmg" length="4778864" type="application/octet-stream" sparkle:edSignature="czfOKRHzwi/jL9Fpwtigq8FpofOD3DQY5h7iSSCOeVVGGDzdtFAq5+8r/6VBFvpst7ZMeA0t+y8F+Xa1ljqSAw=="/>
+    </item>
+    <item>
       <title>Version 3.0.1</title>
       <pubDate>Sat, 24 Oct 2026 08:32:20 GMT</pubDate>
       <sparkle:version>3.0.1</sparkle:version>
