@@ -3,6 +3,18 @@
   <channel>
     <title>Set Link Manager</title>
     <item>
+      <title>Version 3.1.0</title>
+      <pubDate>Tue, 27 Oct 2026 07:43:03 GMT</pubDate>
+      <sparkle:version>3.1.0</sparkle:version>
+      <sparkle:shortVersionString>3.1.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <sparkle:channel>beta</sparkle:channel>
+      <description><![CDATA[
+<ul><li><b>New look</b>, in the style of Apple&#x27;s pro apps, following your Mac&#x27;s light or dark setting (or choose one: Settings → General → Appearance).</li><li><b>Device tags:</b> every unit is shown as a tag in its ring colour, with its name; long names wrap. Click the name to rename, the coloured dot to change the ring.</li><li><b>Details panel:</b> click a unit to see its settings and actions on the right, without leaving the list. ↑ / ↓ move between units; Esc or a click on empty space closes the panel.</li><li>Each row shows role, serial, MAC address and connection, then its settings. Click a MAC address to copy it.</li><li>Reboot, read again and factory reset sit on each wired unit&#x27;s row.</li><li><b>Signal page:</b> units named on the graph; times with no reading shown in a lane per unit under it.</li><li><b>Ping:</b> a proper table; status always in words (e.g. &quot;slow · 140 ms&quot;, &quot;offline&quot;), not just a coloured dot.</li><li><b>Change set, Presets, Workshop</b> and the menu bar use the same tags and layout.</li><li>A unit still matching the preset last written to it shows &quot;verified&quot;.</li></ul>
+      ]]></description>
+      <enclosure url="https://github.com/esteperrin/SetLinkManager/releases/download/v3.1.0/Set-Link-Manager-3.1.0.dmg" length="4990328" type="application/octet-stream" sparkle:edSignature="6j1xhd9+SDvZEutgxTCPyNYM0W2afz2su1aNd6vNM/ajJS0A/6C5xgOlhE3sh94+dJ8zXjaJw/bIJ2gT0+54Cg=="/>
+    </item>
+    <item>
       <title>Version 3.0.2</title>
       <pubDate>Mon, 26 Oct 2026 15:42:55 GMT</pubDate>
       <sparkle:version>3.0.2</sparkle:version>
