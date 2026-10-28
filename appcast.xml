@@ -3,6 +3,18 @@
   <channel>
     <title>Set Link Manager</title>
     <item>
+      <title>Version 3.1.1</title>
+      <pubDate>Wed, 28 Oct 2026 16:50:51 GMT</pubDate>
+      <sparkle:version>3.1.1</sparkle:version>
+      <sparkle:shortVersionString>3.1.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <sparkle:channel>beta</sparkle:channel>
+      <description><![CDATA[
+<ul><li><b>Paired units:</b> each unit shows who it&#x27;s linked with (their ring colours); select one and its partners are outlined, and listed in the details panel.</li><li><b>Presets</b> open in a panel on the right, like units; changes save as you make them. New presets start at 2 MHz.</li><li><b>Settings</b> reorganised: General, Monitoring, Menu Bar, Advanced, Support. Choose what each unit&#x27;s row shows (serial, settings, temperature, signal).</li><li>Unit rows are simpler: actions are in the details panel (or right-click), and the MAC address is shown there (click to copy) and on the Workshop page.</li><li>Renaming a tag in light mode no longer shows white on white.</li><li>A unit no longer appears twice when an AP is unplugged with two of its clients wired.</li><li>The window shrinks freely, even with the details panel open; unit rows stack their details under the tag when it&#x27;s narrow. The sidebar can&#x27;t take over the window, and the window opens larger.</li><li>Transmit power&#x27;s value sits next to its arrows; section titles are larger; Workshop uses smaller tags.</li><li>Settings opens taller, so most tabs need no scrolling, and can be resized.</li><li><b>Regions</b> when editing settings or a preset: pick Australia, Europe (incl. UK), Japan, New Zealand or USA and only its bandwidths, frequencies and power are offered; Freestyle for anything else.</li><li><b>Signal and Ping graphs</b> redesigned alike: names beside the lines, missed readings in labelled lanes, one graph, stacked or a mosaic, and a divider to make the graphs taller or shorter. How often to ping is right on the graph.</li><li>The menu bar shows the AP each client is linked to.</li><li>Graphs glide smoothly as time passes, with curved lines, and run a few seconds behind so lines never jump. Scroll over a graph (or pinch) to zoom in or out in time; the ping graph tops out at 300 ms. Add Device sits above the ping graphs. Opening Signal no longer makes the window wider.</li><li>The support form&#x27;s title no longer shows a sample.</li><li><b>Help</b>: a searchable manual (Help → Set Link Manager Help, ⌘?), and explanations when you rest the pointer on a setting (Settings → General → Help).</li><li>Many reliability fixes from a full review: a unit that isn&#x27;t answering is never reset or rebooted; replies cut short are no longer taken as settings; link alerts work with the menu bar option off; a single lost ping at long intervals shows as lost, not offline; backups keep every setting.</li><li><b>Start minimized</b> (Settings → General): the window goes to the Dock when the app opens.</li></ul>
+      ]]></description>
+      <enclosure url="https://github.com/esteperrin/SetLinkManager/releases/download/v3.1.1/Set-Link-Manager-3.1.1.dmg" length="5725239" type="application/octet-stream" sparkle:edSignature="Et1WHA/oZUbySRudqewDLOGvwJTvKekA69eYHjHWuIfzpyJGxlMPrWEyUoz7Yw3f2WWuGBj1nRpAT9bC+B9PBg=="/>
+    </item>
+    <item>
       <title>Version 3.1.0</title>
       <pubDate>Tue, 27 Oct 2026 07:43:03 GMT</pubDate>
       <sparkle:version>3.1.0</sparkle:version>
