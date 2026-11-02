@@ -3,6 +3,18 @@
   <channel>
     <title>Set Link Manager</title>
     <item>
+      <title>Version 3.1.2</title>
+      <pubDate>Mon, 02 Nov 2026 10:24:56 GMT</pubDate>
+      <sparkle:version>3.1.2</sparkle:version>
+      <sparkle:shortVersionString>3.1.2</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <sparkle:channel>beta</sparkle:channel>
+      <description><![CDATA[
+<ul><li><b>Serial numbers</b> fill themselves in for known units, from Oz Color&#x27;s list.</li><li><b>Sort</b> the Units list by serial number, last seen, APs then clients, or drag a unit onto another to make your own order.</li><li><b>Europe</b> now allows up to 20 dBm.</li><li><b>Automatic scanning</b> can be turned off: click the arrow next to Scan.</li><li>A warning when the Mac&#x27;s network interface to a unit has a <b>self-assigned address</b>, which makes units come back late after a replug; a wired unit&#x27;s details show its <b>network interface</b>.</li><li>The <b>ring colour dot</b> on a name tag has an arrow and reacts to the pointer, so it&#x27;s clear it changes the colour.</li><li>The details panel closes with a click on empty space in the list, and slides away without flashing.</li><li><b>Ping</b> sits right under Signal in the sidebar. Its table sorts by any column title; drag a graph onto another to reorder the graphs (stacked and mosaic). Each reply shows as soon as it&#x27;s in. The cog there opens Settings on Monitoring.</li><li><b>Signal</b> page: a Ping button shows the ping graphs under the links. Mosaic graphs use the whole width. Scroll to zoom in a mosaic too; ⇧-scroll where the wheel scrolls the graphs.</li><li><b>Presets</b>: a Save button (⌘S) saves and closes the panel.</li><li><b>Change set</b>: what to try when a unit fails, and a Retry button for a unit that didn&#x27;t answer.</li></ul>
+      ]]></description>
+      <enclosure url="https://github.com/esteperrin/SetLinkManager/releases/download/v3.1.2/Set-Link-Manager-3.1.2.dmg" length="6081410" type="application/octet-stream" sparkle:edSignature="2juoG3+YM8g06YySVSUX1DFDyaub851ftTZK4oErDpEbpu4dETiJ4Pj+VzHuRFRfr2PXVwMM8GYJq+LJ/XrUCw=="/>
+    </item>
+    <item>
       <title>Version 3.1.1</title>
       <pubDate>Wed, 28 Oct 2026 16:50:51 GMT</pubDate>
       <sparkle:version>3.1.1</sparkle:version>
