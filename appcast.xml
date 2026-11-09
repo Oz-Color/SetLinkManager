@@ -3,6 +3,17 @@
   <channel>
     <title>Set Link Manager</title>
     <item>
+      <title>Version 3.1.4</title>
+      <pubDate>Mon, 09 Nov 2026 15:58:13 GMT</pubDate>
+      <sparkle:version>3.1.4</sparkle:version>
+      <sparkle:shortVersionString>3.1.4</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[
+<ul><li><b>Contact Support</b> sends your message straight from the app, no Mail needed.</li><li><b>Ping</b>: the <b>Monitor</b> box (was Menu bar) turns a device off completely: no pinging, not in the menu bar or the graphs.</li><li><b>Ping</b>: pick each device&#x27;s colour in the graphs; the latest time shows beside each name.</li><li><b>Add Devices</b> counts in letters too: Cam A, Cam B…</li><li><b>Menu bar panel</b>: a plug marks the wired unit, and a bell beside each unit and device turns its alerts on or off.</li><li>Settings and the window opened from the menu bar come to the front, and the panel closes; the app is in ⌘-Tab while its window is open.</li><li>Number fields in Settings take what you type (50 ms no longer turns into 10).</li><li>Menu bar icon: the filled Set Link Nano replaces the Oz Color logo.</li></ul>
+      ]]></description>
+      <enclosure url="https://github.com/Oz-Color/SetLinkManager/releases/download/v3.1.4/Set-Link-Manager-3.1.4.dmg" length="6520424" type="application/octet-stream" sparkle:edSignature="9sRYreeVgFjfinyOGeykH+3U49pbW2cr93XziRkDGinIeryDgvohseqKtP2RlTXSjPKeBbEVOaNSF4iWVm5yAQ=="/>
+    </item>
+    <item>
       <title>Version 3.1.3</title>
       <pubDate>Mon, 09 Nov 2026 11:07:14 GMT</pubDate>
       <sparkle:version>3.1.3</sparkle:version>
