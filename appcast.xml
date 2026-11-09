@@ -3,6 +3,17 @@
   <channel>
     <title>Set Link Manager</title>
     <item>
+      <title>Version 3.1.3</title>
+      <pubDate>Mon, 09 Nov 2026 11:07:14 GMT</pubDate>
+      <sparkle:version>3.1.3</sparkle:version>
+      <sparkle:shortVersionString>3.1.3</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[
+<ul><li><b>Contact Support</b> (Help menu, or Settings → Support): give your name, email, a subject and the type of request, describe your issue, and it goes to Oz Color with the app&#x27;s diagnostics, including each unit&#x27;s last full configuration (passwords are never included).</li><li><b>Disconnect alerts per unit</b>: turn them off for one unit in its details, or next to it on the Signal page.</li><li><b>Change set</b> is steadier with clients that are slow to answer, and lists best practice under Start, including switching a client to AP while it&#x27;s written.</li><li><b>Signal</b> graph shows each reading as soon as it arrives, like Ping; no more ghost lines or numbers fading between values.</li><li>A wired AP no longer shows a signal reading left over from when it was a client.</li><li>The details panel has one fixed width and its information is regrouped: the name tag spans the panel, the disconnect alert sits at the top, and Serial, Network interface and Notes are under Information.</li><li>The network interface name follows a rename in System Settings.</li><li>A shorter <b>self-assigned address</b> warning, with a guide to setting a static IP in the manual.</li><li><b>Ping</b> shows jitter, and the slow limit can be set in Settings → Monitoring.</li><li>With the menu bar on, <b>⌘Q</b> closes the window and monitoring goes on; Settings → Menu Bar turns that off.</li><li>Hover explanations are always on; the manual opens from Settings → Support.</li><li>The Oz Color logo at the bottom of the sidebar opens the shop.</li></ul>
+      ]]></description>
+      <enclosure url="https://github.com/Oz-Color/SetLinkManager/releases/download/v3.1.3/Set-Link-Manager-3.1.3.dmg" length="4936170" type="application/octet-stream" sparkle:edSignature="5m2RKzoXQE05QhZGEh7GXZIEiCbJYO3v8VlL+BKIweg3xNixLPw2XSfx2dWRsP9b0KdmuKuMMlBSz4Tf7EXvCQ=="/>
+    </item>
+    <item>
       <title>Version 3.1.2</title>
       <pubDate>Mon, 02 Nov 2026 10:24:56 GMT</pubDate>
       <sparkle:version>3.1.2</sparkle:version>
